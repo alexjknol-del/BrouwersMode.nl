@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 340" role="img" aria-label="Illustratie van kledingstukken aan een rek">
+<title>Kledingrek</title>
+<rect width="460" height="340" rx="18" fill="#F3EEE7"/>
+<circle cx="376" cy="72" r="42" fill="#B8875A" opacity=".3"/>
+<rect x="52" y="66" width="356" height="7" rx="3.5" fill="#8E7A63"/>
+<rect x="66" y="66" width="8" height="228" rx="4" fill="#8E7A63"/>
+<rect x="386" y="66" width="8" height="228" rx="4" fill="#8E7A63"/>
+<g><path d="M120 84h6v14h-6z" fill="#6E6055"/>
+  <path d="M104 98h38l14 70c1 6-3 11-9 11h-48c-6 0-10-5-9-11z" fill="#3E5A6E"/>
+  <path d="M104 98l-12 16 10 8 8-14z" fill="#4A6A80"/><path d="M142 98l12 16-10 8-8-14z" fill="#4A6A80"/></g>
+<g><path d="M214 84h6v14h-6z" fill="#6E6055"/>
+  <path d="M196 98h42l10 96c1 6-4 11-10 11h-42c-6 0-11-5-10-11z" fill="#B8875A"/>
+  <path d="M196 98l-14 18 11 9 9-16z" fill="#C89A6E"/><path d="M238 98l14 18-11 9-9-16z" fill="#C89A6E"/>
+  <path d="M217 98l-4 107h8l-4-107z" fill="#A5734A"/></g>
+<g><path d="M306 84h6v14h-6z" fill="#6E6055"/>
+  <path d="M288 98h42l12 82c1 6-4 11-10 11h-46c-6 0-11-5-10-11z" fill="#EDE7DF"/>
+  <path d="M288 98l-13 17 10 9 9-15z" fill="#F7F3EE"/><path d="M330 98l13 17-10 9-9-15z" fill="#F7F3EE"/>
+  <path d="M303 98q6 10 12 0l-6 12z" fill="#D8CEC1"/></g>
+<rect x="60" y="294" width="340" height="9" rx="4.5" fill="#D8CEC1"/>
+</svg>

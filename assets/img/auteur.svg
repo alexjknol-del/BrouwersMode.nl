@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Illustratie van Thomas Brouwers">
+<title>Thomas Brouwers</title>
+<circle cx="120" cy="120" r="120" fill="#F3EEE7"/>
+<circle cx="120" cy="132" r="82" fill="#E5B48F"/>
+<path d="M42 122c0-42 34-68 78-68s78 26 78 68c-6-22-22-32-36-28-12 4-24 8-42 8s-30-4-42-8c-14-4-30 6-36 28z" fill="#4A3B2C"/>
+<g fill="#2C231B"><ellipse cx="96" cy="142" rx="6" ry="7.2"/><ellipse cx="144" cy="142" rx="6" ry="7.2"/></g>
+<g stroke="#6B4F36" stroke-width="4" fill="none" stroke-linecap="round"><path d="M84 126q12-7 24-1"/><path d="M132 125q12-7 24 1"/></g>
+<path d="M100 170q20 12 40 0" fill="none" stroke="#A9503E" stroke-width="5" stroke-linecap="round"/>
+<path d="M96 184q24 9 48 0l-5 14h-38z" fill="#5C452F"/>
+<circle cx="78" cy="158" r="9" fill="#DB7C63" opacity=".38"/><circle cx="162" cy="158" r="9" fill="#DB7C63" opacity=".38"/>
+<path d="M46 216q74-40 148 0v24H46z" fill="#2A2724"/>
+<path d="M96 210q24 14 48 0l6 30H90z" fill="#FAF8F5"/>
+<path d="M114 214l6 8 6-8 8 6-8 26h-12l-8-26z" fill="#B8875A"/>
+</svg>
